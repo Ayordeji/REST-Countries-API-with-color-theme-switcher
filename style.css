@@ -1,0 +1,11 @@
+.dark-mode {
+  background-color: #000000da; /* Dark mode background color */
+}
+
+@media (min-width: 992px) {
+  .make-static {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+}
